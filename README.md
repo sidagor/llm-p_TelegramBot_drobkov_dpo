@@ -122,9 +122,6 @@ llm-p/
 * `tasks/` — Celery задачи.
 * `tests/` — unit, mock и integration тесты.
 
-```
-```
-
 
 ## Основные возможности:
 
