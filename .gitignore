@@ -7,16 +7,24 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
 
-# uv 
+# uv
 uv.lock
 
 # Ruff
 .ruff_cache/
 
-# Project specific
-app.db
+# Pytest
+.pytest_cache/
 
-# Python version 
+# Environment variables
+.env
+
+# Databases
+app.db
+*.db
+test.db
+
+# Python version
 .python-version
