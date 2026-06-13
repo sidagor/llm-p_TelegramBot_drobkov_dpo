@@ -432,15 +432,11 @@ Integration Tests
 
 ### Эндпоинты 
 
-```
-
 ![Эндпоинты](screenshots/эндпоинты.PNG)
 
 ---
 
 ### Регистрация пользователя
-
-```
 
 ![Регистрация](screenshots/регистрация.PNG)
 
@@ -448,15 +444,12 @@ Integration Tests
 
 ### Логин и получение JWT
 
-```
-
 ![Логин](screenshots/логин.PNG)
 
 ---
 
 ### Авторизация в Swagger
 
-```
 
 ![Авторизация](screenshots/авторизация_swagger.PNG)
 
@@ -464,7 +457,6 @@ Integration Tests
 
 ### /auth/me
 
-```
 
 ![Профиль](screenshots/профиль.PNG)
 
@@ -476,7 +468,6 @@ Integration Tests
 
 ### Telegram_bot
 
-```
 
 ![Telegram](screenshots/telegram.jpg)
 
@@ -484,7 +475,6 @@ Integration Tests
 
 ### Демонстрация интерфейса RabbitMQ
 
-```
 
 ![RabbitMQ](screenshots/RabbitMq.PNG)
 
@@ -492,7 +482,6 @@ Integration Tests
 
 ### Демонстрация Celery
 
-```
 
 ![Celery](screenshots/celery.PNG)
 
@@ -504,7 +493,6 @@ Integration Tests
 
 ## Auth Service
 
-```
 
 ![Auth_тесты](screenshots/auth_test.PNG)
 
@@ -512,7 +500,6 @@ Integration Tests
 
 ## Bot Service
 
-```
 
 ![Bot_тесты](screenshots/bot_test.PNG)
 
@@ -520,7 +507,6 @@ Integration Tests
 
 ## Демонстрация успешной проверки линтера 
 
-```
 
 ![Ruff](screenshots/ruff.PNG)
 
