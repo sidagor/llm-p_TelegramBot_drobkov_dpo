@@ -60,7 +60,7 @@ RabbitMQ (Broker)
    
  Bot Service отвечает за:
 
-приём сообщений Telegram;
+- приём сообщений Telegram;
 - хранение JWT пользователя в Redis;
 - проверку подписи и срока действия JWT;
 - публикацию задач в RabbitMQ;
