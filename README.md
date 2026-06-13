@@ -451,7 +451,7 @@ Integration Tests
 ### Авторизация в Swagger
 
 
-![Авторизация](screenshots/авторизация_swagger.PNG)
+![Авторизация](screenshots/swagger.PNG)
 
 ---
 
