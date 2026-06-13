@@ -430,12 +430,19 @@ Integration Tests
 
 ---
 
+### Эндпоинты 
+
+```
+
+![Эндпоинты](screenshots/эндпоинты.PNG)
+
+---
+
 ### Регистрация пользователя
 
 ```
 
-![регистрация](https://github.com/user-attachments/assets/b32baa3f-3a07-4aa2-9268-5593ff8b2051)
-
+![Регистрация](screenshots/регистрация.PNG)
 
 ---
 
@@ -443,46 +450,79 @@ Integration Tests
 
 ```
 
-![логин](https://github.com/user-attachments/assets/7910f3a8-309d-4bda-9219-01d9f4887b40)
-
+![Логин](screenshots/логин.PNG)
 
 ---
 
 ### Авторизация в Swagger
 
 ```
-<img width="290" height="213" alt="авторизация swagger" src="https://github.com/user-attachments/assets/897a7235-6c25-4b37-9984-42bbbd5c778a" />
+
+![Авторизация](screenshots/авторизация_swagger.PNG)
 
 ---
 
-### POST /chat
-
-Отправка запроса к LLM:
-
+### /auth/me
 
 ```
 
-```
+![Профиль](screenshots/профиль.PNG)
 
 ---
 
-### GET /chat/history
-
-Получение истории сообщений:
-
-```
-
-```
+## Демонстрация работы Bot_Service
 
 ---
 
-### DELETE /chat/history
-
-Очистка истории:
+### Telegram_bot
 
 ```
 
+![Telegram](screenshots/telegram.jpg)
+
+---
+
+### Демонстрация интерфейса RabbitMQ
+
 ```
+
+![RabbitMQ](screenshots/RabbitMq.PNG)
+
+---
+
+### Демонстрация Celery
+
+```
+
+![Celery](screenshots/celery.PNG)
+
+---
+
+## Демонстрация тестирования 
+
+---
+
+## Auth Service
+
+```
+
+![Auth_тесты](screenshots/auth_test.PNG)
+
+---
+
+## Bot Service
+
+```
+
+![Bot_тесты](screenshots/bot_test.PNG)
+
+---
+
+## Демонстрация успешной проверки линтера 
+
+```
+
+![Ruff](screenshots/ruff.PNG)
 
 ---
 
@@ -490,9 +530,4 @@ Integration Tests
 
 В проекте использован openrouter/free, который автоматически выбирает самую доступную из бесплатных моделей. В процессе работы над проектом stepfun/step-3.5-flash перестала быть бесплатной, поэтому было решено использовать другие модели.
 
-```
-
-```
-
----
 
