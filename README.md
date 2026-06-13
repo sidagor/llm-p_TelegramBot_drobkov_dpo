@@ -434,7 +434,7 @@ Integration Tests
 
 ```
 
-<img width="635" height="260" alt="регистрация" src="https://github.com/user-attachments/assets/8d53c2b4-969a-4470-90b7-8f1424b3062c" />
+![регистрация](https://github.com/user-attachments/assets/b32baa3f-3a07-4aa2-9268-5593ff8b2051)
 
 
 ---
@@ -443,22 +443,15 @@ Integration Tests
 
 ```
 
-<img width="636" height="232" alt="логин" src="https://github.com/user-attachments/assets/7910f3a8-309d-4bda-9219-01d9f4887b40" />
+![логин](https://github.com/user-attachments/assets/7910f3a8-309d-4bda-9219-01d9f4887b40)
 
 
 ---
 
 ### Авторизация в Swagger
 
-Нажать кнопку **Authorize** и вставить:
-
 ```
-Bearer <ваш_токен>
-```
-
-```
-
-```
+<img width="290" height="213" alt="авторизация swagger" src="https://github.com/user-attachments/assets/897a7235-6c25-4b37-9984-42bbbd5c778a" />
 
 ---
 
