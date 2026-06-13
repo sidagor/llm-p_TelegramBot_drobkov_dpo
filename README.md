@@ -214,6 +214,7 @@ source .venv/bin/activate
 ```bash
 uv pip install -r <(uv pip compile pyproject.toml)
 ```
+переименуйте файл .env.example в .env
 
 ---
 
@@ -305,9 +306,10 @@ uv pip install -r <(uv pip compile pyproject.toml)
 Затем создайте Telegram-бота через @BotFather и вставьте полученный токен в переменную TELEGRAM_BOT_TOKEN.  
 
 Если для доступа к Telegram вам требуется VPN или прокси, укажите адрес прокси в переменной TELEGRAM_PROXY.  
-Если Telegram доступен напрямую, оставьте это поле пустым.  
-  
-После заполнения всех необходимых переменных переименуйте файл .env.example в .env.  
+Если Telegram доступен напрямую, оставьте это поле пустым.    
+
+После заполнения всех необходимых переменных переименуйте файл .env.example в .env
+
 ---
 
 - Запуск Telegram Bot
@@ -424,7 +426,7 @@ Integration Tests
 
 
 
-## Демонстрация работы API
+## Демонстрация работы Auth Service  
 
 ---
 
@@ -432,7 +434,8 @@ Integration Tests
 
 ```
 
-```
+<img width="635" height="260" alt="регистрация" src="https://github.com/user-attachments/assets/8d53c2b4-969a-4470-90b7-8f1424b3062c" />
+
 
 ---
 
@@ -440,7 +443,8 @@ Integration Tests
 
 ```
 
-```
+<img width="636" height="232" alt="логин" src="https://github.com/user-attachments/assets/7910f3a8-309d-4bda-9219-01d9f4887b40" />
+
 
 ---
 
